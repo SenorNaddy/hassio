@@ -1,5 +1,5 @@
 {
-  "name": "ESPHome Hass.io Add-Ons",
-  "url": "https://github.com/esphome/hassio",
-  "maintainer": "ESPHome <contact@esphome.io>"
+  "name": "ESPHome Hass.io Add-Ons (senornaddy)",
+  "url": "https://github.com/SenorNaddy/hassio",
+  "maintainer": "Simon Wadsworth"
 }
